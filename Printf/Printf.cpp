@@ -14,7 +14,7 @@ void outDouble( double ); // wypisuje znakowow liczbe double    0.  (do 8 po kro
 void outNum( int x );     // wypisuje znakowo liczbe int >0     rekurencyjnie
 
 
-#define DOUBLE_MIN_STOP 1De-6 // when double number is below this we should stop displayin it
+#define DOUBLE_MIN_STOP 1e-6 // when double number is below this we should stop displayin it
 #define DOUBLE_MAX_NUMBERS 8 // max number of digits after dot in double number
 
 //----------------------------------
