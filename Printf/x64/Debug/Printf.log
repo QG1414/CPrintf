@@ -1,0 +1,3 @@
+﻿  Printf.cpp
+D:\WDI-C\Semestr2\Projekty\Printf\Printf\Printf.cpp(30,15): warning C4129: '%': unrecognized character escape sequence
+  Printf.vcxproj -> D:\WDI-C\Semestr2\Projekty\Printf\x64\Debug\Printf.exe
